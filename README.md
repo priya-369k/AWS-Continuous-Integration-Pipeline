@@ -24,6 +24,9 @@ Cloud-based CI pipeline that:
 
 ## 🏗️ Architecture
 
+<img width="2048" height="2048" alt="image" src="https://github.com/user-attachments/assets/56cc3c19-dd2d-4729-8bb7-7910868f1058" />
+
+
 
 ## 🛠️ Technologies Used
 
